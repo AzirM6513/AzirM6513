@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @AzirM6513
-- 👀 I’m interested in react, express.
-- 🌱 I’m currently learning about token authentication
-- 💞️ I’m looking to collaborate on javascript projects
